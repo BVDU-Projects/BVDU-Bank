@@ -1,21 +1,37 @@
 # 👤 Author
 
-**Name:** Adarsh Satyajit Adhikary  
-**Project:** 🏦 BVDU-Bank — Banking & Trading Management System (C)  
-**Year:** 2025  
-**Role:** Developer, Designer, and Maintainer  
+Lead Developer  
+Adarsh Satyajit Adhikary
+
+Project  
+🏦 BVDU-Bank — Banking & Trading Management System (C)
+
+Organization  
+BVDU Projects
+
+Year  
+2025
+
+Role  
+System Architect, Lead Developer, and Maintainer
 
 ---
 
-### 💬 About
-This project was fully developed and maintained by **Adarsh Satyajit Adhikary** as part of a college-level software development initiative.  
-It demonstrates advanced C programming concepts such as file handling, structured data management, and console-based UI design.
+## 👥 Contributors
+
+Achyut Nayak — Testing, Debugging, and Code Review  
+Ayush Shashibhushan Tripathi — Feature Feedback and System Testing  
+Aabir Nilu Das — Documentation Support and UI Suggestions
 
 ---
 
-### 📜 License
-© 2025 Adarsh Satyajit Adhikary — BVDU-Bank  
-Licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this project with proper credit.
+## 💬 About
 
----
+BVDU-Bank is part of the **BVDU Projects engineering series**, focused on building structured system software in C.
+
+The project demonstrates concepts such as:
+
+• File-based data persistence  
+• Structured data management  
+• Console-based UI design  
+• Financial market simulation
