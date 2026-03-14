@@ -139,15 +139,20 @@ BVDU-Bank/
 
 ---
 
+## 👥 Contributors
+
+Lead Developer  
+- **Adarsh Satyajit Adhikary** — System Architecture, Core Development, and Project Maintenance
+
+Contributors  
+- **Achyut Nayak** — Testing, Debugging, and Code Review  
+- **Ayush Shashibhushan Tripathi** — Feature Feedback and System Testing  
+- **Aabir Nilu Das** — Documentation Support and UI Suggestions
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with credit.  
 See [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
-
-**Adarsh Satyajit Adhikary**  
-© 2025 — *BVDU-Bank: Banking & Trading Management System (C)*  
