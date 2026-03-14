@@ -1,8 +1,9 @@
 /* ============================================================================
 
    Project : 🏦 BVDU-Bank — Banking + Trading Management System
-   Author  : Adarsh Satyajit Adhikary
-   Year    : 2025
+   Organization : BVDU Projects
+   Lead Developer : Adarsh Satyajit Adhikary
+   Contributors : Achyut Nayak, Ayush Shashibhushan Tripathi, Aabir Nilu Das
    License : MIT License (see LICENSE file)
    Admin PIN : 0013
 
